@@ -1,2 +1,4 @@
 # Hello-world
-just another repositry
+
+Hi,
+Github is a repositry to store our project.
